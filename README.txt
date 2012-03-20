@@ -55,4 +55,4 @@ v1.2 (2011-08-16)
 --
 
 v1.0 2011-08-14 (Release)
-  - Free to use under the MIT license
+  - Free to use under the MIT license.
